@@ -1,0 +1,33 @@
+body
+	{
+		display: block;
+		margin:0;
+	}
+div
+	{
+		height: 200px;
+		width:200px;
+	}
+.top
+	{
+		background-color: red;
+		border: 10px solid;
+		padding: 20px;
+		margin: 0;
+
+	}
+
+.middle
+	{
+		background-color: blue;
+		border: 20px solid;
+		margin-left: 32.5%;
+	}
+
+.bottom
+	{
+		background-color: pink;
+		border: 10px solid;
+		margin-left: 62.5%;
+		padding-right: 30px;
+	}
